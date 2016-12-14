@@ -1,5 +1,5 @@
 # Xamarin iOS 101
-Helpers and stuff with Xamarin and C# for iOS
+Basic helper classes and stuff with Xamarin and C# for iOS!
 
 * [AsyncTask.cs] (AsyncTask.cs)
 
